@@ -1,1 +1,2 @@
-# Feed-reader-resting-master-SS-1-
+feedreader master 1 -Open the index 2- check the failure
+
